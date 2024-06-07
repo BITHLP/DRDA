@@ -1,0 +1,7 @@
+/checkpoints/
+/fairseq/
+/data-bin/
+/data/
+/experiments/
+/wandb/
+__pycache__
